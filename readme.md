@@ -17,8 +17,6 @@ In this project We have used following Firebase serivces.
 * **Firebase RealTime Database** : That's we for handle realtime chat
 * **Firebase Storage** : That's we use for store user profile image
 
-BinBytes is an mobile & web application development agency in Rajkot, India. You'll find an overview of all our services [on our website](https://binbytes.com).
-
 ## Requirements
 
 ### Mandatory
@@ -68,10 +66,6 @@ react-native run-android
 
 If you discover any security related issues, please email author email instead of using the issue tracker.
 
-## Credits
-
-- [Bhavik Charola](https://github.com/bhavik66)
-
 ## License
 
 MIT License. Please see the [license file](LICENSE.md) for more information.
@@ -85,5 +79,3 @@ MIT License. Please see the [license file](LICENSE.md) for more information.
 [android_studio-url]: https://developer.android.com/studio/install
 [codebeat-badge]: https://codebeat.co/badges/f22bd54a-d944-440d-aa4d-3a99f79b41d3
 [codebeat-url]: https://codebeat.co/projects/github-com-binbytes-react-native-firebase-chat-master
-[ico-travis]: https://img.shields.io/travis/binbytes/laravel-model-media-backup/master.svg?style=flat-square
-[link-travis]: https://travis-ci.org/binbytes/react-native-firebase-chat
